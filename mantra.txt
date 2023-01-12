@@ -1,0 +1,5 @@
+{
+	"ip":"Canzet77.aternos.me",
+	"port": "27611",
+	"name": "afkbot"
+}
